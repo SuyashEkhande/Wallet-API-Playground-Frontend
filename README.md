@@ -5,7 +5,7 @@ This frontend is a simple wallet application designed as a learning tool to unde
 
 ## Backend
 
-For the backend of this project, visit the following repository: [Wallet API Playground Backend](https://github.com/SuyashEkhande/Wallet-API-Playground-Backend/tree/master).
+For the backend of this project, visit the following repo: [Wallet API Playground Backend](https://github.com/SuyashEkhande/Wallet-API-Playground-Backend/tree/master).
 
 ## Learning Objectives
 
